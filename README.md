@@ -67,8 +67,7 @@ I believe in continuous learning and collaboration, and I enjoy contributing to 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ayush--kawane-blue?logo=linkedin)](http://www.linkedin.com/in/ayush-kawane-a89a13262)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-ayush__kawane-orange?logo=leetcode)](https://leetcode.com/u/ayush_kawane/)
 
-📧 ayush.kawane221@vit.edu  
-📞 +91 9307842838
+📧 ayush.kawane221@vit.edu
 
 ---
 
