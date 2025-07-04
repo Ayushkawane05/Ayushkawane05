@@ -39,7 +39,7 @@ I believe in continuous learning and collaboration, and I enjoy contributing to 
 
 ### 🛠️ Service Marketplace Website  
 **Tech:** HTML, CSS, JavaScript, PHP  
-- Designed a local service booking platform with location filters, authentication, and listings.
+- Designed a local service booking platform with location filters, authentication, and listings .
 
 ### 🍽️ Recipe Management System  
 **Tech:** Spoonacular API  
