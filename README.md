@@ -2,7 +2,8 @@
 
 🎓 **B.Tech, Artificial Intelligence & Data Science** — VIT Pune (2022 – 2026)
 📍 Pune, India
-🛠️ Currently building backend + AI systems as a **Product Developer Intern @ Darwinbox**
+
+🛠️  backend + AI systems as a **Product Developer Intern @ Darwinbox** Jan 2026 - Jul 2026
 
 ---
 
