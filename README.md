@@ -16,7 +16,7 @@ Open to **Software Engineer / AI Engineer** roles for 2026.
 
 ## 🛠️ Tech Stack
 
-**Languages:** `Python` `JavaScript` `Java` `SQL` `C`
+**Languages:** `Python` `JavaScript` `Java` `SQL` `C`/n
 **Backend:** `Node.js` `Express.js` `REST APIs` `Microservices` `Server-Sent Events`
 **Databases:** `MongoDB` `MySQL`
 **AI / ML:** `PyTorch` `TensorFlow` `Transformers` `RAG` `LangChain` `PubMedBERT` `CNNs` `Transfer Learning`
