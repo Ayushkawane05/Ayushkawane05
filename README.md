@@ -8,7 +8,7 @@
 
 ## About Me
 
-Final-year AI/DS student working on production backend services and LLM-powered systems. At Darwinbox, I'm building AI orchestration pipelines, retrieval systems, and microservice components used by enterprise HR workflows. Outside of work, I'm interested in the intersection of backend engineering and applied ML — particularly RAG, recommendation systems, and prompt engineering.
+AI/DS student working on production backend services and LLM-powered systems. At Darwinbox, I'm building AI orchestration pipelines, retrieval systems, and microservice components used by enterprise HR workflows. Outside of work, I'm interested in the intersection of backend engineering and applied ML — particularly RAG, recommendation systems, and prompt engineering.
 
 Open to **Software Engineer / AI Engineer** roles for 2026.
 
