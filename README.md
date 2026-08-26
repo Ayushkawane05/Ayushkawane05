@@ -371,16 +371,23 @@ Currently open to **Software Engineer / AI Engineer** opportunities.
 
 # 🐍 Contribution Activity
 
-# 🐍 Contribution Activity
-
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Ayushkawane05/Ayushkawane05/output/github-contribution-grid-snake-dark.svg"
-    width="90%"
-    alt="GitHub Contribution Snake"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Ayushkawane05/Ayushkawane05/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Ayushkawane05/Ayushkawane05/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Ayushkawane05/Ayushkawane05/output/github-contribution-grid-snake.svg"
+      width="90%"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
 </p>
----
 
 <!-- ========================================================= -->
 
