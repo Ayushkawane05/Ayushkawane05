@@ -1,84 +1,303 @@
-# 👋 Hi, I'm Ayush Kawane
+<!-- ===================================================== -->
 
-🎓 **B.Tech, Artificial Intelligence & Data Science** — VIT Pune (2022 – 2026)
-📍 Pune, India
+<!--                    HERO SECTION                       -->
 
-🛠️  backend + AI systems as a **Product Developer Intern @ Darwinbox** Jan 2026 - Jul 2026
+<!-- ===================================================== -->
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Ayush%20Kawane&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%20Engineer&descAlignY=62&descSize=18" width="100%"/>
+</p>
 
-## About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=Backend+Engineering+%E2%9A%A1;AI+%26+LLM+Systems+%F0%9F%A4%96;RAG+%7C+Microservices+%7C+APIs;Building+Production-Ready+AI+Applications" />
+</p>
 
-AI/DS student working on production backend services and LLM-powered systems. At Darwinbox, I'm building AI orchestration pipelines, retrieval systems, and microservice components used by enterprise HR workflows. Outside of work, I'm interested in the intersection of backend engineering and applied ML — particularly RAG, recommendation systems, and prompt engineering.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ayushkawane05&label=PROFILE+VIEWS&color=36BCF7&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/Ayushkawane05?label=FOLLOWERS&style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/stars/Ayushkawane05?label=STARS&style=for-the-badge&logo=github"/>
+</p>
 
-Open to **Software Engineer / AI Engineer** roles for 2026.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** `Python` `JavaScript` `Java` `SQL` `C`.
-
-**Backend:** `Node.js` `Express.js` `REST APIs` `Microservices` `Server-Sent Events`.
-
-**Databases:** `MongoDB` `MySQL` `VectorDB`.
-
-**AI / ML:** `Pandas` `PyTorch` `TensorFlow` `Transformers` `RAG` `LangChain` `PubMedBERT` `CNNs` `Transfer Learning`.
-
-**Frontend:** `React` `HTML / CSS`.
-
-**Tools:** `Git` `GitHub` `Postman` `VS Code` `Linux`
+<p align="center">
+  <a href="http://www.linkedin.com/in/ayush-kawane-a89a13262">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/ayush_kawane/">
+    <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🌟 Featured Projects
+## 👋 About Me
 
-### 🔬 [Curalink — AI Medical Research Assistant](https://github.com/your-handle/curalink)
-**Stack:** Node.js · MongoDB · RAG · Llama 3.1 · PubMedBERT
+<table>
+<tr>
+<td width="60%" valign="top">
 
-Retrieval-augmented research assistant over PubMed, OpenAlex, and ClinicalTrials.gov. Uses dense embeddings (PubMedBERT) + cross-encoder reranking, MeSH term mapping, and LLM-based query rewriting. Achieved **75% Recall@10 lift** over BM25 baseline on a 50-query gold set. Includes a post-generation citation verification pass to flag hallucinated attributions, with SSE streaming for progressive answer rendering.
+🎓 **B.Tech — Artificial Intelligence & Data Science**
+VIT Pune · `2022 – 2026`
 
-### 🛒 [Personalized E-Commerce Platform](https://github.com/your-handle/ecommerce)
-**Stack:** MERN · MongoDB · JWT · Razorpay
+💼 **Product Developer Intern — Darwinbox**
+`Jan 2026 – Jul 2026`
 
-Full-stack MERN platform with a personalized home-screen ranking engine. Computes per-user product affinity from time-decayed implicit signals (clicks, dwell time, purchases) with a 14-day exponential decay and per-event caps. Blended ranking (**70% personalized / 20% global popularity / 10% exploration**) to mitigate filter bubbles. Dwell-time tracking via Page Visibility API + `navigator.sendBeacon` for reliable end-of-session reporting.
+I build **backend services and AI-powered systems**, with a focus on scalable APIs, microservices, retrieval systems, RAG pipelines and applied ML.
 
-### 🩺 [Multi-Disease Chest X-ray Classifier](https://github.com/your-handle/chestxray)
-**Stack:** Python · TensorFlow · DenseNet · Transfer Learning
+Currently interested in:
 
-Multi-class classifier trained on a 2,000-image lab-curated chest X-ray dataset. Fine-tuned DenseNet via selective layer unfreezing and learning-rate scheduling. Preprocessing pipeline handles noisy, class-imbalanced clinical data using stratified sampling and targeted augmentation.
+`Backend Engineering` · `AI Systems` · `RAG` · `Recommendation Systems`
 
-### 💬 [AI Health Chatbot](https://github.com/your-handle/health-chatbot) — *Finalist, IIT BHU AI Hackathon 2025*
-**Stack:** Python · DeepSeek API · NLP
+</td>
 
-LLM-powered medical Q&A chatbot with multi-turn conversation memory and intent classification. Selected as a finalist at the IIT BHU AI Hackathon.
+<td width="40%" align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,nodejs,java,js,pytorch,mongodb&perline=3"/>
 
-## 📜 Certifications
+<br><br>
 
-- 🧠 **Fundamentals of Deep Learning** — NVIDIA (2024)
-- 🌐 **The Web Developer Bootcamp** — Angela Yu, Udemy (2023)
-- 💡 **Design Thinking for Startups** (2022)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1200&color=A855F7&center=true&vCenter=true&width=280&lines=Build+%E2%86%92+Measure+%E2%86%92+Improve;Backend+%2B+AI;Always+Learning" />
 
----
-
-## 🏆 Beyond Code
-
-- 🏃 **Captain, VIT Kho-Kho Team** — winners at IIT Bombay, COEP, MIT, and university-level tournaments
-- 🧠 Solved **500+ DSA problems** across LeetCode and competitive programming platforms
-- 📜 Patent filed: *"Third Eye for Blind Person"* — assistive wearable for visually impaired users
-- 🤝 Organizer at **VIT EPEC Fest**; volunteered at college and community events
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Connect
+# 🛠️ Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayush--kawane-blue?logo=linkedin)](http://www.linkedin.com/in/ayush-kawane-a89a13262)
-[![LeetCode](https://img.shields.io/badge/LeetCode-ayush__kawane-orange?logo=leetcode)](https://leetcode.com/u/ayush_kawane/)
+<table>
+<tr>
 
-📧 **ayush.kawane221@vit.edu**
+<td width="50%" valign="top">
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,docker,postman&perline=4"/>
+</p>
+
+`REST APIs`
+`Microservices`
+`Server-Sent Events`
+`JWT` · `API Design`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=3"/>
+</p>
+
+`RAG` · `Transformers`
+`LangChain` · `Embeddings`
+`Reranking` · `Prompt Engineering`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=4"/>
+
+`MongoDB` · `MySQL` · `VectorDB`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,js,java,c&perline=4"/>
+
+`Python` · `JavaScript` · `Java` · `C` · `SQL`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-<sub>*"Code with purpose. Learn with passion."*</sub>
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔬 Curalink
+
+**AI Medical Research Assistant**
+
+`Node.js` · `RAG` · `Llama 3.1` · `PubMedBERT`
+
+🔎 Dense retrieval
+🧠 Cross-encoder reranking
+✍️ Query rewriting
+📚 Citation verification
+⚡ SSE streaming
+
+**75% Recall@10 lift over BM25**
+
+<br>
+
+<a href="https://github.com/Ayushkawane05">
+<img src="https://img.shields.io/badge/Project-181717?style=flat-square&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛒 E-Commerce
+
+**Personalized Shopping Platform**
+
+`MERN` · `MongoDB` · `JWT`
+
+📈 User affinity scoring
+⏱️ Time-decayed signals
+🖱️ Click + dwell tracking
+🛍️ Purchase signals
+🎯 Personalized ranking
+
+**70% personalized · 20% popularity · 10% exploration**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🩺 Chest X-Ray Classifier
+
+`Python` · `TensorFlow` · `DenseNet`
+
+🧠 Transfer learning
+⚖️ Class imbalance handling
+🧪 Targeted augmentation
+📉 Learning-rate scheduling
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💬 AI Health Chatbot
+
+`Python` · `DeepSeek API` · `NLP`
+
+🧠 Multi-turn memory
+🎯 Intent classification
+🤖 LLM-powered Q&A
+
+🏆 **IIT BHU AI Hackathon 2025 Finalist**
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub & LeetCode
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### 🐙 GitHub
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ayushkawane05&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true"/>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🧠 LeetCode
+
+<a href="https://leetcode.com/u/ayush_kawane/">
+<img src="https://leetcard.jacoblin.cool/ayush_kawane?theme=dark&font=Karma&ext=heatmap"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ayushkawane05&theme=tokyonight&hide_border=true&background=0D1117" width="70%"/>
+</p>
+
+---
+
+# 🏆 Beyond Code
+
+<p align="center">
+
+🏃 **VIT Kho-Kho Captain**
+🥇 IIT Bombay · COEP · MIT
+🧠 **500+ DSA Problems**
+📜 **Patent Filed**
+🏆 **IIT BHU AI Hackathon Finalist**
+
+</p>
+
+---
+
+# 🌱 Currently Exploring
+
+<p align="center">
+
+`System Design` · `Distributed Systems` · `Advanced RAG`
+`Agentic AI` · `Recommendation Systems`
+
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Design+better+systems.;Build+better+AI.;Keep+learning.;Keep+shipping." />
+</p>
+
+---
+
+# 📫 Connect
+
+<p align="center">
+
+<a href="http://www.linkedin.com/in/ayush-kawane-a89a13262">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/ayush_kawane/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ayushkawane05">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+📧 <b>ayush.kawane221@vit.edu</b>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer"/>
+</p>
+
+<p align="center">
+  <i>⚡ Code with purpose. Learn with passion.</i>
+</p>
