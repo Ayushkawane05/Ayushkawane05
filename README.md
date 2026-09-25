@@ -8,6 +8,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Ayush%20Kawane&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%20Engineer&descAlignY=62&descSize=18" width="100%"/>
 </p>
 
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=Backend+Engineering+%E2%9A%A1;AI+%26+LLM+Systems+%F0%9F%A4%96;RAG+%7C+Microservices+%7C+APIs;Cloud+%7C+Docker+%7C+AWS;Building+Production-Ready+AI+Applications" />
 </p>
