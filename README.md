@@ -26,7 +26,7 @@
   </a>
 
   <a href="https://leetcode.com/u/ayush_kawane/">
-    <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LeetCode-600%2B%20Problems-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
   </a>
 
   <a href="https://github.com/Ayushkawane05">
